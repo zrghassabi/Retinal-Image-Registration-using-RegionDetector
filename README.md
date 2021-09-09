@@ -1,4 +1,4 @@
-# RegionDetector
+# Retina RegionDetector
 
 The proposed registration framework includes five stages as follows:
 
